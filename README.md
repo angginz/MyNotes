@@ -90,7 +90,7 @@ Build Production server
 ```bash
 npm run build
 ```
-
+---
 ## 📁 Project Struktur
 
 ```text
@@ -122,9 +122,10 @@ MyNotes/
 └── README.md
 
 ```
-```md
-## 🚀 Future Roadmap
+---
 
+## 🚀 Future Roadmap
+```md
 - [ ] Custom confirmation modal
 - [ ] Import / Export notes
 - [ ] JSON backup
@@ -146,6 +147,7 @@ MyNotes/
 - [ ] Sync antar perangkat
 
 ```
+---
 ## 📄 License
 
 This project is intended for learning and personal development.
