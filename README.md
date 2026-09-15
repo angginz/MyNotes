@@ -91,11 +91,11 @@ Build Production server
 npm run build
 ```
 
-## Project Struktur
+## 📁 Project Struktur
 
+```text
 MyNotes/
 ├── public/
-│
 ├── src/
 │   ├── components/
 │   │   ├── AppSidebar.vue
@@ -121,30 +121,31 @@ MyNotes/
 ├── vite.config.js
 └── README.md
 
+```
+```md
 ## 🚀 Future Roadmap
 
-Roadmap fitur selanjutnya :
+- [ ] Custom confirmation modal
+- [ ] Import / Export notes
+- [ ] JSON backup
+- [ ] Markdown editor
+- [ ] Rich text editor
+- [ ] Checklist
+- [ ] Auto title
+- [ ] Note colors
+- [ ] Tag filter
+- [ ] Drag and drop
+- [ ] Note duplication
+- [ ] Automatic Trash cleanup
+- [ ] PWA support
+- [ ] Offline installation
+- [ ] IndexedDB storage
+- [ ] Cloud synchronization
+- [ ] Authentication
+- [ ] Backend API
+- [ ] Sync antar perangkat
 
-Custom confirmation modal
-Import / Export notes
-JSON backup
-Markdown editor
-Rich text editor
-Checklist
-Auto title
-Note colors
-Tag filter
-Drag and drop
-Note duplication
-Automatic Trash cleanup
-PWA support
-Offline installation
-IndexedDB storage
-Cloud synchronization
-Authentication
-Backend API
-Sync antar perangkat
-
+```
 ## 📄 License
 
 This project is intended for learning and personal development.
